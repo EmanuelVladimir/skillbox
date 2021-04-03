@@ -1,3 +1,0 @@
-C:/Git_Reppositoriy/skillbox/cmake-build-debug/CMakeFiles/skillbox.dir
-C:/Git_Reppositoriy/skillbox/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Git_Reppositoriy/skillbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
