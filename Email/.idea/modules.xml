@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/skillbox.iml" filepath="$PROJECT_DIR$/.idea/skillbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Email.iml" filepath="$PROJECT_DIR$/.idea/Email.iml" />
     </modules>
   </component>
 </project>
